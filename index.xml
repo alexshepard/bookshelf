@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Shepard Book Reviews </title>
+    <link>https://alexshepard.github.io/bookshelf/index.xml</link>
+    <language>en-us</language>
+    <author>Alex Shepard</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-11-26 15:43:30 -0800 PST</updated>
+
+    
+      
+        <item>
+          <title>Seven Habits Book Review</title>
+          <link>https://alexshepard.github.io/bookshelf/post/seven-habits/</link>
+          <pubDate>Sat, 26 Nov 2016 15:43:30 PST</pubDate>
+          <author>Alex Shepard</author>
+          <guid>https://alexshepard.github.io/bookshelf/post/seven-habits/</guid>
+          <description>&lt;p&gt;I read &lt;strong&gt;Seven Habits in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how people can be effective.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>Good to Great Book Review</title>
+          <link>https://alexshepard.github.io/bookshelf/post/good-to-great/</link>
+          <pubDate>Sat, 26 Nov 2016 15:41:53 PST</pubDate>
+          <author>Alex Shepard</author>
+          <guid>https://alexshepard.github.io/bookshelf/post/good-to-great/</guid>
+          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
